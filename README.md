@@ -4,6 +4,8 @@
 
 ---
 
+### [Colab Notebook link](https://colab.research.google.com/drive/1bvk_XejjAHMtGi0ccrIF1s_v6V2aoAL1?usp=sharing)
+
 ## 1. First Reflection
 
 ### Title: Equal.txt
