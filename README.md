@@ -78,12 +78,7 @@ test_bias(bilstm_model, Word, equality_sets)
 | lead | 0.024 |  -0.070 | 
 |  weak |  0.02 |  0.075 | 
 
-lead
-0.024
--0.070
-weak
-0.002
-0.075
+
 One can see, with these examples alone, that the seemingly un-gendered words skew towards one or the other gender significantly. These indicate that the “un-gendered” words used in the film reviews (~25,000) of the dataset are biased towards males. Notably, “weak” has an average similarity to male coded words of a measly 0.002 as opposed to 0.075 for feminine words. It is almost entirely orthogonal in its cosine similarity to masculine words. This model shows that the film critics behind the reviews do demonstrate bias in the reviews they author.
 
 ### Challenges
